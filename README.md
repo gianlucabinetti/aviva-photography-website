@@ -4,7 +4,7 @@ A beautiful, responsive photography portfolio website showcasing family photogra
 
 ## 🌟 Live Demo
 
-Visit the live website: [Viva Family Photography](http://localhost:3000) (local development)
+Visit the live website: [Viva Family Photography] https://vivafamilyphotography.com/
 
 ## 📋 Table of Contents
 
